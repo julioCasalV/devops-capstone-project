@@ -92,6 +92,9 @@ The Account model contains the following fields:
 
 ## Your Task
 
+## Build status
+![Build Status](https://github.com/julioCasalV/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Complete this microservice by implementing REST API's for `READ`, `UPDATE`, `DELETE`, and `LIST` while maintaining **95%** code coverage. In true **Test Driven Development** fashion, first write tests for the code you "wish you had", and then write the code to make them pass.
 
 ## Local Kubernetes Development
